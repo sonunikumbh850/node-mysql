@@ -27,3 +27,14 @@ It is designed for learning purposes and keeps everything simple and easy to und
 ---
 
 ## 📁 Project Structure
+node-mysql/
+│── node_modules/
+│── .env
+│── .gitignore
+│── database.js
+│── insert.js
+│── read.js
+│── update.js
+│── delete.js
+│── package.json
+│── README.md
